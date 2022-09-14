@@ -1,4 +1,4 @@
-<div>
+<div style="display: flex; justify-content: space-around;">
   <img src="html5Icon.png" >
   <img src="cssIcon.png" >
   <img src="jsIcon.png" >
