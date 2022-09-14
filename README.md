@@ -1,10 +1,3 @@
 
-<div style="margin: 0 auto;">
-  <img src="html5Icon.png" >
-  <img src="cssIcon.png" >
-  <img src="jsIcon.png" >
-  <img src="pythonIcon.png" >
-  <img src="bootstrapiocon.png" >
-  <img src="scssIcon.png" >
-  <img src="reactIcon.png">
-</div>
+
+![icons](https://user-images.githubusercontent.com/98508021/190280102-0529274d-bff4-4943-89f0-6e77ec3b9145.png)
