@@ -5,4 +5,5 @@
   <img src="pythonIcon.png" >
   <img src="bootstrapiocon.png" >
   <img src="scssIcon.png" >
+  <img src="reactIcon.png">
 </div>
