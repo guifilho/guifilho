@@ -1,5 +1,5 @@
-<link rel="stylesheet" href="style.css">
-<div>
+
+<div style="margin: 0 auto;">
   <img src="html5Icon.png" >
   <img src="cssIcon.png" >
   <img src="jsIcon.png" >
