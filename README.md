@@ -2,5 +2,7 @@
 <div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=guifilho&count_private=true&show_icons=true&theme=onedark"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifilho&layout=compact&theme=onedark"/>  
-  <img src="eat-commits-ofc.gif"/>
+</div>
+<div align="center">
+  <img src="pacman-eating-commits-blocks.gif"/>
 </div>
