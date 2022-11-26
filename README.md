@@ -8,4 +8,9 @@
   <img src="pacman-eating-commits-blocks.gif"/>
   <img height="16px" src="fundo-gambiarra.png"/>
 </div>
-![Profile views](https://gpvc.arturio.dev/guifilho)
+<hr>
+<div align="center">
+  <img src="https://gpvc.arturio.dev/guifilho"/>
+</div>
+
+
