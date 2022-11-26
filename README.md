@@ -4,5 +4,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifilho&layout=compact&theme=onedark"/>  
 </div>
 <div align="center">
+  <img height="16px" src="fundo-gambiarra.png"/>
   <img src="pacman-eating-commits-blocks.gif"/>
+  <img height="16px" src="fundo-gambiarra.png"/>
 </div>
