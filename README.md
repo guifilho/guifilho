@@ -1,7 +1,7 @@
 <h2 align="center">Hello World, I am Guilherme Monteiro</h2>
 <div align="center">
   <img height="200" width="56%" src="https://github-readme-stats.vercel.app/api?username=guifilho&count_private=true&theme=onedark&show_icons=true"/>
-  <img height="200" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifilho&layout=compact&theme=onedark"/> 
+  <img height="200" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifilho&theme=onedark&layout=compact"/> 
 </div>
 
 <div align="center">
