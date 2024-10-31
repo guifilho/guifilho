@@ -10,10 +10,6 @@
   <img height="16px" src="fundo-gambiarra.png"/>
 </div>
 
-<div align="center">
-  <img src="https://gpvc.arturio.dev/guimonteirozz"/>
-</div>
-
 <h4 align="center">Linguagens e Ferramentas(Languages and Tools)</h4>
 <div align="center">
   <img height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
