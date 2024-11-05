@@ -4,12 +4,6 @@
   <img height="200" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimonteirozz&theme=onedark&layout=compact&langs_count=10"/> 
 </div>
 
-<div align="center">
-  <img height="16px" src="fundo-gambiarra.png"/>
-  <img src="pacman-eating-commits-blocks.gif"/>
-  <img height="16px" src="fundo-gambiarra.png"/>
-</div>
-
 <h4 align="center">Linguagens e Ferramentas(Languages and Tools)</h4>
 <div align="center">
   <img height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
